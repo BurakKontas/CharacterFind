@@ -1,0 +1,550 @@
+{
+    "titles": "Fullmetal Alchemist: Brotherhood",
+    "information": null,
+    "description": "After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse's soul in the physical realm by binding it to a hulking suit of armor.The brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing \"automail,\" a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher's Stone\u2014a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.As Edward becomes an infamous alchemist and gains the nickname \"Fullmetal,\" the boys' journey embroils them in a growing conspiracy that threatens the fate of the world.[Written by MAL Rewrite]",
+    "genres_themes": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Military",
+        "Shounen"
+    ],
+    "studios": [
+        "Bones"
+    ],
+    "producers": [
+        "Aniplex",
+        "Square Enix",
+        "Mainichi Broadcasting System",
+        "Studio Moriken"
+    ],
+    "characters": [
+        {
+            "id": "12",
+            "role": "Main"
+        },
+        {
+            "id": "11",
+            "role": "Main"
+        },
+        {
+            "id": "2079",
+            "role": "Supporting"
+        },
+        {
+            "id": "20592",
+            "role": "Supporting"
+        },
+        {
+            "id": "3934",
+            "role": "Supporting"
+        },
+        {
+            "id": "55287",
+            "role": "Supporting"
+        },
+        {
+            "id": "5428",
+            "role": "Supporting"
+        },
+        {
+            "id": "10968",
+            "role": "Supporting"
+        },
+        {
+            "id": "7203",
+            "role": "Supporting"
+        },
+        {
+            "id": "183599",
+            "role": "Supporting"
+        },
+        {
+            "id": "5103",
+            "role": "Supporting"
+        },
+        {
+            "id": "34689",
+            "role": "Supporting"
+        },
+        {
+            "id": "10982",
+            "role": "Supporting"
+        },
+        {
+            "id": "16648",
+            "role": "Supporting"
+        },
+        {
+            "id": "23106",
+            "role": "Supporting"
+        },
+        {
+            "id": "15541",
+            "role": "Supporting"
+        },
+        {
+            "id": "17103",
+            "role": "Supporting"
+        },
+        {
+            "id": "15532",
+            "role": "Supporting"
+        },
+        {
+            "id": "50123",
+            "role": "Supporting"
+        },
+        {
+            "id": "169503",
+            "role": "Supporting"
+        },
+        {
+            "id": "10944",
+            "role": "Supporting"
+        },
+        {
+            "id": "10948",
+            "role": "Supporting"
+        },
+        {
+            "id": "67",
+            "role": "Supporting"
+        },
+        {
+            "id": "10972",
+            "role": "Supporting"
+        },
+        {
+            "id": "52739",
+            "role": "Supporting"
+        },
+        {
+            "id": "15538",
+            "role": "Supporting"
+        },
+        {
+            "id": "10964",
+            "role": "Supporting"
+        },
+        {
+            "id": "27028",
+            "role": "Supporting"
+        },
+        {
+            "id": "10085",
+            "role": "Supporting"
+        },
+        {
+            "id": "651",
+            "role": "Supporting"
+        },
+        {
+            "id": "5706",
+            "role": "Supporting"
+        },
+        {
+            "id": "75268",
+            "role": "Supporting"
+        },
+        {
+            "id": "23461",
+            "role": "Supporting"
+        },
+        {
+            "id": "5705",
+            "role": "Supporting"
+        },
+        {
+            "id": "35144",
+            "role": "Supporting"
+        },
+        {
+            "id": "5411",
+            "role": "Supporting"
+        },
+        {
+            "id": "2439",
+            "role": "Supporting"
+        },
+        {
+            "id": "351",
+            "role": "Supporting"
+        },
+        {
+            "id": "15531",
+            "role": "Supporting"
+        },
+        {
+            "id": "21072",
+            "role": "Supporting"
+        },
+        {
+            "id": "105499",
+            "role": "Supporting"
+        },
+        {
+            "id": "4685",
+            "role": "Supporting"
+        },
+        {
+            "id": "75922",
+            "role": "Supporting"
+        },
+        {
+            "id": "70",
+            "role": "Supporting"
+        },
+        {
+            "id": "15536",
+            "role": "Supporting"
+        },
+        {
+            "id": "9792",
+            "role": "Supporting"
+        },
+        {
+            "id": "15542",
+            "role": "Supporting"
+        },
+        {
+            "id": "22474",
+            "role": "Supporting"
+        },
+        {
+            "id": "10954",
+            "role": "Supporting"
+        },
+        {
+            "id": "69",
+            "role": "Supporting"
+        },
+        {
+            "id": "15533",
+            "role": "Supporting"
+        },
+        {
+            "id": "92915",
+            "role": "Supporting"
+        },
+        {
+            "id": "6590",
+            "role": "Supporting"
+        },
+        {
+            "id": "135041",
+            "role": "Supporting"
+        },
+        {
+            "id": "3292",
+            "role": "Supporting"
+        },
+        {
+            "id": "10976",
+            "role": "Supporting"
+        },
+        {
+            "id": "112213",
+            "role": "Supporting"
+        },
+        {
+            "id": "650",
+            "role": "Supporting"
+        },
+        {
+            "id": "29798",
+            "role": "Supporting"
+        },
+        {
+            "id": "35595",
+            "role": "Supporting"
+        },
+        {
+            "id": "10956",
+            "role": "Supporting"
+        },
+        {
+            "id": "8840",
+            "role": "Supporting"
+        },
+        {
+            "id": "10978",
+            "role": "Supporting"
+        },
+        {
+            "id": "23338",
+            "role": "Supporting"
+        },
+        {
+            "id": "21005",
+            "role": "Supporting"
+        },
+        {
+            "id": "15540",
+            "role": "Supporting"
+        },
+        {
+            "id": "68",
+            "role": "Supporting"
+        },
+        {
+            "id": "31562",
+            "role": "Supporting"
+        },
+        {
+            "id": "41216",
+            "role": "Supporting"
+        },
+        {
+            "id": "10974",
+            "role": "Supporting"
+        },
+        {
+            "id": "39241",
+            "role": "Supporting"
+        },
+        {
+            "id": "10958",
+            "role": "Supporting"
+        },
+        {
+            "id": "10966",
+            "role": "Supporting"
+        },
+        {
+            "id": "24923",
+            "role": "Supporting"
+        },
+        {
+            "id": "65",
+            "role": "Supporting"
+        },
+        {
+            "id": "63",
+            "role": "Supporting"
+        },
+        {
+            "id": "9319",
+            "role": "Supporting"
+        },
+        {
+            "id": "66",
+            "role": "Supporting"
+        },
+        {
+            "id": "25547",
+            "role": "Supporting"
+        },
+        {
+            "id": "10970",
+            "role": "Supporting"
+        },
+        {
+            "id": "8452",
+            "role": "Supporting"
+        },
+        {
+            "id": "10962",
+            "role": "Supporting"
+        },
+        {
+            "id": "15543",
+            "role": "Supporting"
+        },
+        {
+            "id": "5988",
+            "role": "Supporting"
+        },
+        {
+            "id": "33816",
+            "role": "Supporting"
+        },
+        {
+            "id": "4159",
+            "role": "Supporting"
+        },
+        {
+            "id": "3696",
+            "role": "Supporting"
+        },
+        {
+            "id": "3293",
+            "role": "Supporting"
+        },
+        {
+            "id": "21907",
+            "role": "Supporting"
+        },
+        {
+            "id": "15534",
+            "role": "Supporting"
+        }
+    ],
+    "recommendations": [
+        "11061",
+        "16498",
+        "1482",
+        "9919",
+        "38000",
+        "2251",
+        "1575",
+        "22199",
+        "23755",
+        "14513",
+        "1735",
+        "37520",
+        "38691",
+        "19",
+        "10087",
+        "392",
+        "3588",
+        "21",
+        "33352",
+        "237",
+        "34599",
+        "5530",
+        "6702",
+        "2025",
+        "9756",
+        "2001",
+        "16918",
+        "18115",
+        "30",
+        "1535",
+        "40028",
+        "28249",
+        "1538",
+        "8425",
+        "45",
+        "6114",
+        "1536",
+        "14075",
+        "10793",
+        "136",
+        "36028",
+        "4898",
+        "34572",
+        "20",
+        "22297",
+        "48580",
+        "21743",
+        "26243",
+        "17247",
+        "24405",
+        "35062",
+        "8086",
+        "167",
+        "60",
+        "40748",
+        "32615",
+        "2904",
+        "34565",
+        "3407",
+        "39539",
+        "35120",
+        "13125",
+        "42192",
+        "35972",
+        "33",
+        "37779",
+        "31722",
+        "6811",
+        "8311",
+        "52093",
+        "36023",
+        "31240",
+        "4725",
+        "21843",
+        "32951",
+        "48583",
+        "48",
+        "20785",
+        "28999",
+        "6758",
+        "21573",
+        "32379",
+        "250",
+        "35848",
+        "40956",
+        "32827",
+        "269",
+        "24833",
+        "38680",
+        "14719",
+        "36407",
+        "31964",
+        "36838",
+        "20853",
+        "10721",
+        "35760",
+        "1251",
+        "31251",
+        "95",
+        "918",
+        "40834",
+        "37447",
+        "721",
+        "11499",
+        "2418",
+        "4181",
+        "11837",
+        "13601",
+        "11703",
+        "5945",
+        "2966",
+        "31933",
+        "4896",
+        "168",
+        "1459",
+        "33080",
+        "90",
+        "5356",
+        "26",
+        "861",
+        "777",
+        "757",
+        "4654",
+        "953",
+        "845",
+        "3974",
+        "6682",
+        "135",
+        "6547",
+        "3613",
+        "5525",
+        "2559",
+        "44",
+        "32370",
+        "36649",
+        "6594",
+        "28625",
+        "620",
+        "177",
+        "31710",
+        "249",
+        "1520",
+        "889",
+        "965",
+        "37806",
+        "20507",
+        "25013",
+        "38671",
+        "71",
+        "1604",
+        "93",
+        "33433",
+        "22535",
+        "3086",
+        "6",
+        "1195",
+        "11741",
+        "156",
+        "6880",
+        "24439",
+        "37208"
+    ],
+    "pictures": null,
+    "trailer_url": null,
+    "episodes": null
+}

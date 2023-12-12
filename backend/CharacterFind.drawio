@@ -1,0 +1,148 @@
+<mxfile host="Electron" modified="2023-05-17T18:41:58.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="fEFtTNQhplv4Ukku0I3H" version="21.2.8" type="device">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#EEEEEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M_09jMNXLI7s4cToKNkC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;strokeColor=#182E3E;labelBackgroundColor=#EEEEEE;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" source="M_09jMNXLI7s4cToKNkC-1" target="M_09jMNXLI7s4cToKNkC-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-17" value="Weaviate" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-18" value="Postgres" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;perimeterSpacing=0;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yBWRRIaOGQS2dnX0NuC0-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="M_09jMNXLI7s4cToKNkC-33" target="M_09jMNXLI7s4cToKNkC-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-33" value="Auth&amp;nbsp;&lt;br&gt;Servisi" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="890" y="195" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-37" value="" style="group;fontColor=#1A1A1A;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="220" y="320" width="130" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-4" value="Next.JS server" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="M_09jMNXLI7s4cToKNkC-37" vertex="1">
+          <mxGeometry y="65" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-5" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Next.JS i bir proxy olarak kullanıyoruz yada load balancer&lt;br&gt;sonuç olarak gerçek API linklerini kullanıcı görmüyor&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="M_09jMNXLI7s4cToKNkC-37" vertex="1">
+          <mxGeometry x="-5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-56" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontFamily=Comic Sans MS;strokeColor=#182E3E;labelBackgroundColor=#EEEEEE;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" source="M_09jMNXLI7s4cToKNkC-42" target="M_09jMNXLI7s4cToKNkC-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-42" value="RabbitMQ&lt;br&gt;(Event Bus)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#b85450;fillColor=#f8cecc;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="510" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-43" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontFamily=Comic Sans MS;strokeColor=#182E3E;labelBackgroundColor=#EEEEEE;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" source="M_09jMNXLI7s4cToKNkC-4" target="M_09jMNXLI7s4cToKNkC-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-47" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#b85450;fillColor=#f8cecc;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="465" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-48" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontFamily=Comic Sans MS;strokeColor=#182E3E;labelBackgroundColor=#EEEEEE;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" source="M_09jMNXLI7s4cToKNkC-4" target="M_09jMNXLI7s4cToKNkC-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-49" value="Rediste IP tabanlı bir rate limiting sistemi işleniyor. Her kullanıcı 5 saniyede 1 istek atabilir. (Kayıtlılar dahil). Redise kullanıcı IP sini (kayıtlıysa kullanıcı adı ve ip) atılıyor TTL 5 saniye veriliyor eğer varsa rate limit hatası döndürüyor Next.JS yoksa rabbitmq&#39;ya mesajı ileterek işlemi yapmaya başlıyor." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Comic Sans MS;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="405" y="394" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-50" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="347.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-59" value="Burada bir dinleme işlemi söz konusu eğer bir işlem kuyruğa gelirse &lt;br&gt;(kayıtlı kullanıcıların priorityleri olacak kayıtsızlara kıyasla) &lt;br&gt;direk işlemine göre kuyruktan alıyor.&lt;br&gt;Mesela arama ve öneri gibi kuyruklar olacak eğer bu kuyruklardan birine veri gelirse&lt;br&gt;işlemeye başlayacak. Durable false olacak bu işlemlerde giderse gitsin yani :D&lt;br&gt;Sonrasında sonuç adlı bir kuyruğa ileticek mesajı onuda Next.JS dinleyecek.&lt;br&gt;Sonucun iletimi için socket kurulacak Next.JS içerisine." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Comic Sans MS;fontColor=#1A1A1A;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="580" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WXk-GBFLFZgi00nkP3pm-2" value="ElasticSearch&lt;br&gt;(Öneri için)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WXk-GBFLFZgi00nkP3pm-8" value="" style="group;fontColor=#1A1A1A;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="220" y="407.5" width="130" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="WXk-GBFLFZgi00nkP3pm-9" value="Socket.IO Server&lt;br&gt;(Next.JS üzerinde)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;curveFitting=1;jiggle=2;" parent="WXk-GBFLFZgi00nkP3pm-8" vertex="1">
+          <mxGeometry y="65" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WXk-GBFLFZgi00nkP3pm-10" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;RabbitMQ dan gelen cevapları socket ile alıyoruz.&lt;br&gt;Sonrasında Next.JS de tutulan connectionId lerine göre alınan cevabı iletiyoruz.&lt;br&gt;(Örneği Replitte RabbitMQ Socket.IO olarak var)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="155" y="560" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WXk-GBFLFZgi00nkP3pm-11" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;curveFitting=1;jiggle=2;" parent="1" source="WXk-GBFLFZgi00nkP3pm-9" target="M_09jMNXLI7s4cToKNkC-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WXk-GBFLFZgi00nkP3pm-12" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;curveFitting=1;jiggle=2;" parent="1" source="WXk-GBFLFZgi00nkP3pm-9" target="M_09jMNXLI7s4cToKNkC-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-26" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;curveFitting=1;jiggle=2;" parent="1" source="TViEMG7VJ6Dzpf8J0BUW-16" target="WXk-GBFLFZgi00nkP3pm-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-27" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;curveFitting=1;jiggle=2;" parent="1" source="TViEMG7VJ6Dzpf8J0BUW-16" target="M_09jMNXLI7s4cToKNkC-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-16" value="Öneri&lt;br&gt;Servisi" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="890" y="435" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-25" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;curveFitting=1;jiggle=2;" parent="1" source="TViEMG7VJ6Dzpf8J0BUW-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-17" value="Weaviate&lt;br&gt;Servisi" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="890" y="275" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-22" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;curveFitting=1;jiggle=2;" parent="1" source="TViEMG7VJ6Dzpf8J0BUW-18" target="TViEMG7VJ6Dzpf8J0BUW-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-23" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;curveFitting=1;jiggle=2;" parent="1" source="TViEMG7VJ6Dzpf8J0BUW-18" target="TViEMG7VJ6Dzpf8J0BUW-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-24" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;curveFitting=1;jiggle=2;" parent="1" source="TViEMG7VJ6Dzpf8J0BUW-18" target="M_09jMNXLI7s4cToKNkC-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-28" value="" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curveFitting=1;jiggle=2;" parent="1" source="TViEMG7VJ6Dzpf8J0BUW-18" target="M_09jMNXLI7s4cToKNkC-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-18" value="Metadata&lt;br&gt;Servisi" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="890" y="355" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-19" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;curveFitting=1;jiggle=2;" parent="1" source="M_09jMNXLI7s4cToKNkC-8" target="TViEMG7VJ6Dzpf8J0BUW-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-20" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;curveFitting=1;jiggle=2;" parent="1" source="M_09jMNXLI7s4cToKNkC-8" target="TViEMG7VJ6Dzpf8J0BUW-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-21" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;curveFitting=1;jiggle=2;" parent="1" source="M_09jMNXLI7s4cToKNkC-8" target="TViEMG7VJ6Dzpf8J0BUW-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yBWRRIaOGQS2dnX0NuC0-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="M_09jMNXLI7s4cToKNkC-8" target="M_09jMNXLI7s4cToKNkC-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M_09jMNXLI7s4cToKNkC-8" value="Proxy" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="710" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-30" value="Sürekli RabbitMQ kuyruklarını dinleyen bir API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="680" y="270" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TViEMG7VJ6Dzpf8J0BUW-31" value="Model - Controller olacak ama controller REST API yerine RabbitMQ kuyrukları olacak.&lt;br&gt;Veritabanı sorguları GraphQL ile yapılacak. RabbitMQ kuyrukları içerisinde GraphQL queryleri olacak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="680" y="435" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gUUJT0qxFTHjlqbXwgSQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="gUUJT0qxFTHjlqbXwgSQ-1" target="M_09jMNXLI7s4cToKNkC-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gUUJT0qxFTHjlqbXwgSQ-1" value="Cron Scheduler" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="610" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gUUJT0qxFTHjlqbXwgSQ-3" value="Haftada 1-2 defa myanimelist&#39;i kontrol edecek olmayan &lt;br&gt;anime - karakteri çekicek" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="575" y="165" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

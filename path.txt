@@ -1,0 +1,6 @@
+myanimelistteki tüm animelerin mal_id lerini alıcaz
+sonrasında o mal_id ler ile tüm animelerin tüm özelliklerini jikandan çekeriz
+sonrasında cron schedule ile jikandan sürekli olmayan animeleri sorgularız
+hentaileri ve müzikleri çekmicez
+mangalarıda çekicez
+sonra karakterleri animeler ile eşleştiricez postgresde ayrıca

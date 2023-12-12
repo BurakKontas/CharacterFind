@@ -1,0 +1,278 @@
+{
+    "titles": "Steins;Gate",
+    "information": null,
+    "description": "Eccentric scientist Rintarou Okabe has a never-ending thirst for scientific exploration. Together with his ditzy but well-meaning friend Mayuri Shiina and his roommate Itaru Hashida, Rintarou founds the Future Gadget Laboratory in the hopes of creating technological innovations that baffle the human psyche. Despite claims of grandeur, the only notable \"gadget\" the trio have created is a microwave that has the mystifying power to turn bananas into green goo.However, when Rintarou decides to attend neuroscientist Kurisu Makise's conference on time travel, he experiences a series of strange events that lead him to believe that there is more to the \"Phone Microwave\" gadget than meets the eye. Apparently able to send text messages into the past using the microwave, Rintarou dabbles further with the \"time machine,\" attracting the ire and attention of the mysterious organization SERN.Due to the novel discovery, Rintarou and his friends find themselves in an ever-present danger. As he works to mitigate the damage his invention has caused to the timeline, he is not only fighting a battle to save his loved ones, but also one against his degrading sanity.[Written by MAL Rewrite]",
+    "genres_themes": [
+        "Drama",
+        "Sci-Fi",
+        "Suspense",
+        "Psychological",
+        "Time Travel"
+    ],
+    "studios": [
+        "White Fox"
+    ],
+    "producers": null,
+    "characters": [
+        {
+            "id": "35258",
+            "role": "Main"
+        },
+        {
+            "id": "34470",
+            "role": "Main"
+        },
+        {
+            "id": "35252",
+            "role": "Main"
+        },
+        {
+            "id": "35253",
+            "role": "Main"
+        },
+        {
+            "id": "210737",
+            "role": "Supporting"
+        },
+        {
+            "id": "35256",
+            "role": "Supporting"
+        },
+        {
+            "id": "44274",
+            "role": "Supporting"
+        },
+        {
+            "id": "35255",
+            "role": "Supporting"
+        },
+        {
+            "id": "210735",
+            "role": "Supporting"
+        },
+        {
+            "id": "210731",
+            "role": "Supporting"
+        },
+        {
+            "id": "35257",
+            "role": "Supporting"
+        },
+        {
+            "id": "210733",
+            "role": "Supporting"
+        },
+        {
+            "id": "89637",
+            "role": "Supporting"
+        },
+        {
+            "id": "210736",
+            "role": "Supporting"
+        },
+        {
+            "id": "41897",
+            "role": "Supporting"
+        },
+        {
+            "id": "210734",
+            "role": "Supporting"
+        },
+        {
+            "id": "210732",
+            "role": "Supporting"
+        },
+        {
+            "id": "164153",
+            "role": "Supporting"
+        },
+        {
+            "id": "38559",
+            "role": "Supporting"
+        },
+        {
+            "id": "38558",
+            "role": "Supporting"
+        },
+        {
+            "id": "41913",
+            "role": "Supporting"
+        },
+        {
+            "id": "42945",
+            "role": "Supporting"
+        },
+        {
+            "id": "30919",
+            "role": "Supporting"
+        }
+    ],
+    "recommendations": [
+        "31240",
+        "31043",
+        "9756",
+        "10620",
+        "2236",
+        "1210",
+        "44074",
+        "42249",
+        "1535",
+        "934",
+        "1889",
+        "46095",
+        "584",
+        "28999",
+        "23283",
+        "7311",
+        "34102",
+        "5630",
+        "32729",
+        "38691",
+        "6746",
+        "38329",
+        "10721",
+        "13599",
+        "849",
+        "14075",
+        "34620",
+        "47194",
+        "339",
+        "21845",
+        "32281",
+        "7785",
+        "4975",
+        "11887",
+        "14373",
+        "13601",
+        "4181",
+        "1575",
+        "2904",
+        "6974",
+        "32962",
+        "30",
+        "10588",
+        "34498",
+        "37450",
+        "2966",
+        "15085",
+        "37451",
+        "2167",
+        "21603",
+        "2025",
+        "5081",
+        "11285",
+        "28223",
+        "1",
+        "11977",
+        "36023",
+        "24075",
+        "39587",
+        "41006",
+        "33371",
+        "31163",
+        "37561",
+        "29",
+        "37976",
+        "15225",
+        "30485",
+        "27775",
+        "11979",
+        "36548",
+        "30015",
+        "23277",
+        "2251",
+        "4898",
+        "9989",
+        "10087",
+        "21587",
+        "33012",
+        "6547",
+        "11111",
+        "13125",
+        "2164",
+        "22535",
+        "1943",
+        "31798",
+        "37345",
+        "35835",
+        "35557",
+        "23273",
+        "32827",
+        "19",
+        "323",
+        "48583",
+        "30484",
+        "121",
+        "13261",
+        "12189",
+        "26",
+        "889",
+        "49835",
+        "42307",
+        "23209",
+        "33341",
+        "48488",
+        "34437",
+        "437",
+        "11577",
+        "31553",
+        "28677",
+        "38256",
+        "35994",
+        "31716",
+        "5060",
+        "16498",
+        "42203",
+        "344",
+        "17265",
+        "3972",
+        "1530",
+        "610",
+        "43229",
+        "129",
+        "31433",
+        "34126",
+        "4382",
+        "5177",
+        "14345",
+        "16157",
+        "28977",
+        "468",
+        "1085",
+        "16049",
+        "10163",
+        "10271",
+        "918",
+        "1690",
+        "5074",
+        "5682",
+        "790",
+        "11933",
+        "32032",
+        "25159",
+        "28617",
+        "18153",
+        "33027",
+        "329",
+        "27631",
+        "5597",
+        "623",
+        "14813",
+        "10719",
+        "949",
+        "38816",
+        "19685",
+        "17074",
+        "1604",
+        "17729",
+        "3002",
+        "14741",
+        "28621",
+        "5356",
+        "49590",
+        "17919"
+    ],
+    "pictures": null,
+    "trailer_url": null,
+    "episodes": null
+}
